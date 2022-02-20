@@ -140,9 +140,9 @@ checkm taxonomy_wf genus Corynebacterium ${projectpath}/Results/unicycler/conser
 - [CheckM](scripts/checkm.sh)
 
 ### 8. References
-https://github.com/s-andrews/FastQC
-https://github.com/usadellab/Trimmomatic
-https://sourceforge.net/projects/bbmap/
-https://github.com/rrwick/Unicycler
-https://github.com/Ecogenomics/CheckM
-https://github.com/bcgsc/abyss
+- https://github.com/s-andrews/FastQC
+- https://github.com/usadellab/Trimmomatic
+- https://sourceforge.net/projects/bbmap/
+- https://github.com/rrwick/Unicycler
+- https://github.com/Ecogenomics/CheckM
+- https://github.com/bcgsc/abyss
