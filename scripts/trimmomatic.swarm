@@ -1,0 +1,21 @@
+cd /data/cmast/RawData ; trimmomatic PE -threads 32 1-48454417/1_S1_L001_R1_001.fastq.gz 1-48454417/1_S1_L001_R2_001.fastq.gz 1_S1_L001_R1_001_paired_trimmed.fastq.gz 1_S1_L001_R1_001_unpaired_trimmed.fastq.gz 1_S1_L001_R2_001_paired_trimmed.fastq.gz 1_S1_L001_R2_001_unpaired_trimmed.fastq.gz SLIDINGWINDOW:5:25 LEADING:25 TRAILING:25
+
+cd /data/cmast/RawData ; trimmomatic PE -threads 32 2-48444447/2_S2_L001_R1_001.fastq.gz 2-48444447/2_S2_L001_R2_001.fastq.gz 2_S2_L001_R1_001_paired_trimmed.fastq.gz 2_S2_L001_R1_001_unpaired_trimmed.fastq.gz 2_S2_L001_R2_001_paired_trimmed.fastq.gz 2_S2_L001_R2_001_unpaired_trimmed.fastq.gz SLIDINGWINDOW:5:25 LEADING:25 TRAILING:25
+
+cd /data/cmast/RawData ; trimmomatic PE -threads 32 3-48448415/3_S3_L001_R1_001.fastq.gz 3-48448415/3_S3_L001_R2_001.fastq.gz 3_S3_L001_R1_001_paired_trimmed.fastq.gz 3_S3_L001_R1_001_unpaired_trimmed.fastq.gz 3_S3_L001_R2_001_paired_trimmed.fastq.gz 3_S3_L001_R2_001_unpaired_trimmed.fastq.gz SLIDINGWINDOW:5:25 LEADING:25 TRAILING:25
+
+cd /data/cmast/RawData ; trimmomatic PE -threads 32 4-48457413/4_S4_L001_R1_001.fastq.gz 4-48457413/4_S4_L001_R2_001.fastq.gz 4_S4_L001_R1_001_paired_trimmed.fastq.gz 4_S4_L001_R1_001_unpaired_trimmed.fastq.gz 4_S4_L001_R2_001_paired_trimmed.fastq.gz 4_S4_L001_R2_001_unpaired_trimmed.fastq.gz SLIDINGWINDOW:5:25 LEADING:25 TRAILING:25
+
+cd /data/cmast/RawData ; trimmomatic PE -threads 32 5-48452416/5_S5_L001_R1_001.fastq.gz 5-48452416/5_S5_L001_R2_001.fastq.gz 5_S5_L001_R1_001_paired_trimmed.fastq.gz 5_S5_L001_R1_001_unpaired_trimmed.fastq.gz 5_S5_L001_R2_001_paired_trimmed.fastq.gz 5_S5_L001_R2_001_unpaired_trimmed.fastq.gz SLIDINGWINDOW:5:25 LEADING:25 TRAILING:25
+
+cd /data/cmast/RawData ; trimmomatic PE -threads 32 6-48452417/6_S6_L001_R1_001.fastq.gz 6-48452417/6_S6_L001_R2_001.fastq.gz 6_S6_L001_R1_001_paired_trimmed.fastq.gz 6_S6_L001_R1_001_unpaired_trimmed.fastq.gz 6_S6_L001_R2_001_paired_trimmed.fastq.gz 6_S6_L001_R2_001_unpaired_trimmed.fastq.gz SLIDINGWINDOW:5:25 LEADING:25 TRAILING:25
+
+cd /data/cmast/RawData ; trimmomatic PE -threads 32 7-48455413/7_S7_L001_R1_001.fastq.gz 7-48455413/7_S7_L001_R2_001.fastq.gz 7_S7_L001_R1_001_paired_trimmed.fastq.gz 7_S7_L001_R1_001_unpaired_trimmed.fastq.gz 7_S7_L001_R2_001_paired_trimmed.fastq.gz 7_S7_L001_R2_001_unpaired_trimmed.fastq.gz SLIDINGWINDOW:5:25 LEADING:25 TRAILING:25
+
+cd /data/cmast/RawData ; trimmomatic PE -threads 32 8-48449414/8_S8_L001_R1_001.fastq.gz 8-48449414/8_S8_L001_R2_001.fastq.gz 8_S8_L001_R1_001_paired_trimmed.fastq.gz 8_S8_L001_R1_001_unpaired_trimmed.fastq.gz 8_S8_L001_R2_001_paired_trimmed.fastq.gz 8_S8_L001_R2_001_unpaired_trimmed.fastq.gz SLIDINGWINDOW:5:25 LEADING:25 TRAILING:25
+
+cd /data/cmast/RawData ; trimmomatic PE -threads 32 9-48444448/9_S9_L001_R1_001.fastq.gz 9-48444448/9_S9_L001_R2_001.fastq.gz 9_S9_L001_R1_001_paired_trimmed.fastq.gz 9_S9_L001_R1_001_unpaired_trimmed.fastq.gz 9_S9_L001_R2_001_paired_trimmed.fastq.gz 9_S9_L001_R2_001_unpaired_trimmed.fastq.gz SLIDINGWINDOW:5:25 LEADING:25 TRAILING:25
+
+cd /data/cmast/RawData ; trimmomatic PE -threads 32 10-48447415/10_S10_L001_R1_001.fastq.gz 10-48447415/10_S10_L001_R2_001.fastq.gz 10_S10_L001_R1_001_paired_trimmed.fastq.gz 10_S10_L001_R1_001_unpaired_trimmed.fastq.gz 10_S10_L001_R2_001_paired_trimmed.fastq.gz 10_S10_L001_R2_001_unpaired_trimmed.fastq.gz SLIDINGWINDOW:5:25 LEADING:25 TRAILING:25
+
+
