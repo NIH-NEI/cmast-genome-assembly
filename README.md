@@ -1,6 +1,6 @@
 # _Corynebacterium mastitidis_ RC Genome Assembly Workflow
 General scripts/code/pipeline/documentation used for assembling the _Corynebacterium mastitidis_ RC genome sequence.
-- Author: Vijay Nagarajan PhD
+- Authors: Vijay Nagarajan PhD, Amy Zhang PhD
 - Affiliation: Laboratory of Immunology, NEI/NIH
 - Contact: nagarajanv@nih.gov
 - Description: This workflow takes the raw fastq files, checks the quality, does preprocessing, generates swarm command files for assembly and quality assessments
