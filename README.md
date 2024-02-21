@@ -5,7 +5,7 @@ General scripts/code/pipeline/documentation used for assembling the _Corynebacte
 - Contact: nagarajanv@nih.gov
 - Description: This workflow takes the raw fastq files, checks the quality, does preprocessing, generates swarm command files for assembly and quality assessments
 - Platform: The workflow BASH commands were developed to run in the NIH Biowulf cluster computing facility, but could be reused/reproduced in any linux environment with appropriate changes
-Publication: Nagarajan V, St Leger AJ, Zhang A, Silver P, Caspi RR. Draft Reference Genome Sequence of Corynebacterium mastitidis RC, an Ocular Commensal, Isolated from Mouse Conjunctiva. Microbiol Resour Announc. 2022 Jun 16;11(6):e0018722. doi: 10.1128/mra.00187-22. Epub 2022 May 10. PMID: 35536012; PMCID: PMC9202379.
+- Publication: [Nagarajan V, St Leger AJ, Zhang A, Silver P, Caspi RR. Draft Reference Genome Sequence of Corynebacterium mastitidis RC, an Ocular Commensal, Isolated from Mouse Conjunctiva. Microbiol Resour Announc. 2022 Jun 16;11(6):e0018722. doi: 10.1128/mra.00187-22. Epub 2022 May 10. PMID: 35536012; PMCID: PMC9202379.](https://pubmed.ncbi.nlm.nih.gov/35536012/)
 -------------------------------
 ### 1. Project Folder Structure
 ```
